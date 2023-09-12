@@ -19,7 +19,7 @@ This Jupyter Notebook explores two specific trading strategies—Ichimoku Strate
 
 ## Go to the project
 
-[Jupyter Notebook](Backtesting.ipynb)
+[Jupyter Notebook](https://github.com/Nicolagg/Backtesting/blob/6d9bca65af2ee366223a5dc65d183bd2d7c784e2/Backtesting.ipynb)
 
 ---
 **[🔙 Back to portfolio](https://nicolagg.github.io/)**

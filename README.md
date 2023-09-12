@@ -7,8 +7,8 @@ This Jupyter Notebook explores two specific trading strategies—Ichimoku Strate
 
 ## Strategies Explored
 
-1. **Ichimoku Strategy**: Utilizes Ichimoku Cloud indicators for trading decisions.
-2. **EMAcross Strategy**: Relies on Exponential Moving Average crossovers for generating trade signals.
+1. **[Ichimoku Strategy:](https://github.com/Nicolagg/Backtesting/blob/bec2290a541fce8e7ba2cecfc250a1f3d992b8c0/EMAcross%20Strategy.htm)** Utilizes Ichimoku Cloud indicators for trading decisions.
+2. **[EMAcross Strategy](https://github.com/Nicolagg/Backtesting/blob/bec2290a541fce8e7ba2cecfc250a1f3d992b8c0/Ichimoku%20strat.htm)**: Relies on Exponential Moving Average crossovers for generating trade signals.
 
 ## Features
 
